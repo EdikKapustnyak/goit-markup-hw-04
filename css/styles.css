@@ -396,21 +396,6 @@ img {
 .social-media-link:hover, .social-media-link:focus { 
     background-color: #404bbf;
 }
-/* 
-.social-media-item { 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 40px;
-    height: 40px;
-    background-color: rgba(77, 90, 229, 1);
-    border-radius: 50%;
-}
-
-.social-media-item:hover {
-    background-color: rgba(64, 75, 191, 1);
-    color: rgba(244, 244, 253, 1);
-} */
 
 .social-media-icon { 
     fill: #f4f4fd ;
